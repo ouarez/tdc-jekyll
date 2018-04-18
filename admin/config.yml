@@ -44,11 +44,21 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
           - {label: "Titre de la page", name: "title", widget: "string"}
-          - {label: "Permalink", name: "permalink", default: "/a-propos" }
+          - {label: "Permalink", name: "permalink", default: "/a-propos", widget: "hidden" }
           - {label: "Description (Google)", name: "description", widget: "string"}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
           - {label: "Contenu", name: "body", widget: "markdown"}
           - {label: "Image 1", name: "image1", widget: "image"}
+
+      - name: "services"
+        file: "services.md"
+        label: "Éditer la page des Services"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", default: "/services", widget: "hidden" }
+          - {label: "Description (Google)", name: "description", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
 
   - name: "settings"
     label: "Paramètres du site"
