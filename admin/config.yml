@@ -8,7 +8,7 @@ media_folder: "img"
 collections:
 
   - name: "special-pages"
-    label: "Pages uniques"
+    label: "Éditer le contenu des pages"
     delete: false # Prevent users from deleting documents in this collection
     files:
       - name: "home"
@@ -22,6 +22,21 @@ collections:
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
           - {label: "Slogan1", name: "slogan1", widget: "string"}
           - {label: "Slogan2", name: "slogan2", widget: "string"}
+
+          - {label: "Icone 1", name: "icon1", widget: "image"}
+          - {label: "Paragraphe 1", name: "text1", widget: "string"}
+          - {label: "Texte du lien 1", name: "link1", widget: "string"}
+          - {label: "Lien 1", name: "url1", widget: "string"}
+
+          - {label: "Icone 2", name: "icon2", widget: "image"}
+          - {label: "Paragraphe 2", name: "text2", widget: "string"}
+          - {label: "Texte du lien 2", name: "link2", widget: "string"}
+          - {label: "Lien 2", name: "url2", widget: "string"}
+
+          - {label: "Icone 3", name: "icon3", widget: "image"}
+          - {label: "Paragraphe 3", name: "text3", widget: "string"}
+          - {label: "Texte du lien 3", name: "link3", widget: "string"}
+          - {label: "Lien 3", name: "url3", widget: "string"}
 
   - name: "settings"
     label: "Paramètres du site"
