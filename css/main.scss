@@ -222,30 +222,30 @@ footer {
 
   .container {
 
-    h3 {color:#eee;}
+    h3 {color:#eee;font-size:18px;}
     p {
       color:#eee;
-      font-size:20px;
+      font-size:16px;
       line-height:1.5;
     }
     a {
       color:#aaa;
-      font-size:20px;
+      font-size:16px;
       line-height:1.5;
     }
     .icon {
       position:relative;
       span {
         color:#eee;
-        font-size:18px;
-        margin-left:36px;
+        font-size:16px;
+        margin-left:30px;
         line-height:1.5;
         display:block;
       }
       img {
         position:absolute;
-        top:10px;
-        width:24px;
+        top:12px;
+        width:18px;
       }
     }
     .social {
