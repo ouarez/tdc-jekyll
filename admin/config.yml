@@ -16,7 +16,7 @@ collections:
         label: "Éditer la page d'accueil"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/" }
           - {label: "Description (Google)", name: "description", widget: "string"}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
@@ -37,6 +37,18 @@ collections:
           - {label: "Paragraphe 3", name: "text3", widget: "string"}
           - {label: "Texte du lien 3", name: "link3", widget: "string"}
           - {label: "Lien 3", name: "url3", widget: "string"}
+
+      - name: "about"
+        file: "about.md"
+        label: "Éditer la page À propos"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", default: "/a-propos" }
+          - {label: "Description (Google)", name: "description", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - {label: "Contenu", name: "content", widget: "markdown"}
+          - {label: "Image 1", name: "image1", widget: "image"}
 
   - name: "settings"
     label: "Paramètres du site"
