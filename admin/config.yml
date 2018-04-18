@@ -38,8 +38,8 @@ collections:
           - {label: "Texte du lien 3", name: "link3", widget: "string"}
           - {label: "Lien 3", name: "url3", widget: "string"}
 
-      - name: "about"
-        file: "about.md"
+      - name: "a-propos"
+        file: "a-propos.md"
         label: "Éditer la page À propos"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
