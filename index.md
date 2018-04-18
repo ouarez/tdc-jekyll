@@ -15,7 +15,7 @@ icon2: /img/truck-white.png
 text2: 'Plus de 12 véhicules adaptés à vos besoins, fiables et professionnels'
 link2: Voir notre flotte de véhicules
 url2: /vehicules
-icon3: /img/truck-white.png
+icon3: /img/dollar-white.png
 text3: Tarif à l'heure ou au millage et sans surprise
 link3: En savoir plus sur les tarifs
 url3: /services
