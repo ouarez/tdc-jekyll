@@ -18,6 +18,6 @@ url2: /vehicules
 icon3: /img/dollar-white.png
 text3: Tarif à l'heure ou au millage et sans surprise
 link3: Contactez nous pour un estimé
-url3: /services
+url3: /contact
 ---
 
