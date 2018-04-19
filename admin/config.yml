@@ -76,8 +76,13 @@ collections:
             name: "vehicules"
             widget: "list"
             fields:
-              - {label: "Image", name: "image", widget: "image"}
-              - {label: "Titre de l'image", name: "image_title", widget: "string"}
+              - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+              - label: Author
+                name: author
+                widget: object
+                fields:
+                  - {label: Name, name: name, widget: string, default: "Emmet"}
+                  - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
 
   - name: "settings"
     label: "Paramètres du site"
