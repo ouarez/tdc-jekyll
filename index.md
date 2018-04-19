@@ -17,7 +17,7 @@ link2: Voir notre flotte de véhicules
 url2: /vehicules
 icon3: /img/dollar-white.png
 text3: Tarif à l'heure ou au millage et sans surprise
-link3: En savoir plus sur les tarifs
-url3: /services
+link3: Contactez nous pour un estimé
+url3: /contact
 ---
 
