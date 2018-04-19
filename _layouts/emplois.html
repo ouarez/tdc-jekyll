@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{% for item in page.jobs %}
+
+<div class="job w-100 pv3">
+  <h3>{{item.job_title}}</h3>
+
+  <div class="db icon pt2"><img src="/img/icons/clock-black.png" alt="Date:"/><span>{{item.job_date}}</span></div>
+  <div class="db icon pt2"><img src="/img/icons/dollar-black.png" alt="Taux horaire"/><span>{{item.job_salary}}</span></div>
+
+  {{item.job_desc}}
+
+  <input class="submit b ph3 pv3 mv3 input-reset grow pointer br3 w-50 w-30-l" value="Postuler" type="submit">
+
+</div>
+
+{% endfor %}

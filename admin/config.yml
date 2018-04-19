@@ -91,6 +91,27 @@ collections:
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
           - {label: "Contenu", name: "body", widget: "markdown"}
 
+      - name: "emplois"
+        file: "emplois.md"
+        label: "Éditer la page des Emplois"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "emplois"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", default: "/emplois", widget: "hidden" }
+          - {label: "Description (Google)", name: "description", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - {label: "Contenu", name: "body", widget: "markdown", required: false}
+          - label: "Emplois"
+            name: "jobs"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Titre de l'emploi", name: "job_title", widget: string }
+              - {label: "Date de l'affichage", name: "job_date", widget: date }
+              - {label: "Salaire", name: "job_salary", widget: string }
+              - {label: "Description", name: "job_desc", widget: markdown }
+
+
 
   - name: "settings"
     label: "Paramètres du site"
@@ -109,34 +130,3 @@ collections:
            - {label: "Numéro de téléphone de contact", name: "site_tel", widget: "string", required: false}
            - {label: "Lien vers page Facebook", name: "url_facebook", widget: "string", required: false}
            - {label: "Lien vers page Instagram", name: "url_instagram", widget: "string", required: false}
-           - {label: "Lien vers page Twitter", name: "url_twitter", widget: "string", required: false}
-
-       - name: "navigation"
-         label: "Navigation"
-         file: "_data/navigation.yml"
-         description: "Navigation du site"
-         fields:
-          - label: "Navigation principale"
-            name: main_nav
-            widget: object
-            required: false
-            fields:
-              - label: Link
-                name: links
-                widget: list
-                required: false
-                fields:
-                  - {label: Titre, name: title, widget: string}
-                  - {label: URL, name: url, widget: string}
-          - label: "Navigation pied de page"
-            name: bottom_nav
-            widget: object
-            required: false
-            fields:
-              - label: Link
-                name: links
-                widget: list
-                required: false
-                fields:
-                  - {label: Titre, name: title, widget: string}
-                  - {label: URL, name: url, widget: string}
