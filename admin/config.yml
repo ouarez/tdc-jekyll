@@ -80,6 +80,17 @@ collections:
               - {label: "Titre de l'image", name: "image_title", widget: string }
               - {label: "Image", name: "image", widget: image }
 
+      - name: "contact"
+        file: "contact.md"
+        label: "Éditer la page Contact"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "services"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", default: "/services", widget: "hidden" }
+          - {label: "Description (Google)", name: "description", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - {label: "Contenu", name: "body", widget: "markdown"}
+
 
   - name: "settings"
     label: "Paramètres du site"
