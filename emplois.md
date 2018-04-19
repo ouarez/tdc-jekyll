@@ -15,11 +15,11 @@ jobs:
       Qualifications requises:
 
 
-      * \    Pickup 2500 ou 3500 plaqué L avec inspection de la SAAQ
+      * Pickup 2500 ou 3500 plaqué L avec inspection de la SAAQ
 
-      * \    Assurances commerciales pour transport de roulottes US
+      * Assurances commerciales pour transport de roulottes US
 
-      * \    2 voyages par semaine , 48 semaines par année. (INDIANA)
+      * 2 voyages par semaine , 48 semaines par année. (INDIANA)
 
 
       Vous pouvez postuler sur le site, ou appeller au 450-258-0772
