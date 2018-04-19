@@ -128,7 +128,8 @@ collections:
            - {label: "Courriel de contact", name: "site_email", widget: "string", required: false}
            - {label: "Numéro de téléphone", name: "site_tel", widget: "string", required: false}
            - {label: "Numéro de fax", name: "site_fax", widget: "string", required: false}
-           - {label: "Addresse de l'entreprise", name: "site_address", widget: "markdown", required: false}
+           - {label: "Addresse de l'entreprise (ligne 1)", name: "site_address_1", widget: "string", required: false}
+           - {label: "Addresse de l'entreprise (ligne 2)", name: "site_address_1", widget: "string", required: false}
            - {label: "Heures d'ouverture", name: "site_business_hours", widget: "string", required: false}
            - {label: "Lien vers page Facebook", name: "url_facebook", widget: "string", required: false}
            - {label: "Lien vers page Instagram", name: "url_instagram", widget: "string", required: false}
