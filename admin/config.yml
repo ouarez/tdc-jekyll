@@ -71,12 +71,13 @@ collections:
           - {label: "Permalink", name: "permalink", default: "/vehicules", widget: "hidden" }
           - {label: "Description (Google)", name: "description", widget: "string"}
           - {label: "Image de couverture", name: "cover_image", widget: "image"}
-          - {label: "Contenu", name: "body", widget: "markdown"}
+          - {label: "Contenu", name: "body", widget: "markdown", required: false}
           - label: "Véhicules"
             name: "vehicules"
             widget: "list"
             field:
-              - {label: Image, name: image, widget: image}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Titre de l'image", name: "image_title", widget: "string"}
 
   - name: "settings"
     label: "Paramètres du site"
