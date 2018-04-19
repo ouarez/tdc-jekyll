@@ -62,6 +62,22 @@ collections:
           - {label: "Contenu", name: "body", widget: "markdown"}
           - {label: "Image 1", name: "image1", widget: "image"}
 
+      - name: "vehicules"
+        file: "vehicules.md"
+        label: "Éditer la page des Véhicules"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "vehicules"}
+          - {label: "Titre de la page", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", default: "/vehicules", widget: "hidden" }
+          - {label: "Description (Google)", name: "description", widget: "string"}
+          - {label: "Image de couverture", name: "cover_image", widget: "image"}
+          - {label: "Contenu", name: "body", widget: "markdown"}
+          - label: "Véhicules"
+            name: "vehicules"
+            widget: "list"
+            field:
+              - {label: Image, name: image, widget: image}
+
   - name: "settings"
     label: "Paramètres du site"
     delete: false # Prevent users from deleting documents in this collection
