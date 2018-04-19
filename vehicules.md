@@ -6,6 +6,6 @@ description: >-
   transport de véhicules récréatifs.
 cover_image: /img/camion3.jpg
 vehicules:
-  - t
+  - null
 ---
-test
+
