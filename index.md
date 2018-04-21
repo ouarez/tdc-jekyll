@@ -10,7 +10,7 @@ slogan2: À votre service depuis 18 ans
 icon1: /img/gps-white.png
 text1: Transport et assurance partout au Canada et aux États-Unis
 link1: En savoir plus sur nos services
-url1: /services
+url1: /a-propos
 icon2: /img/truck-white.png
 text2: Plus de 12 véhicules fiables et adaptés à vos besoins
 link2: Voir notre flotte de véhicules
