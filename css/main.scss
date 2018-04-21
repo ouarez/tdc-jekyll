@@ -90,7 +90,7 @@ nav {
 }
 
 header {
-  height: 400px;
+  height: 650px;
   width:100%;
   background-repeat:no-repeat;
   background-size: cover;
@@ -111,6 +111,12 @@ header {
       }
     }
 
+    .main-nav {
+      .portail {
+        background-color:$red;
+      }
+    }
+
     .nav-button {
       cursor:pointer;
       img {
@@ -121,7 +127,7 @@ header {
   }
 
   .hero {
-    height:320px;
+    height:800px;
     background:
         /* top, transparent black, faked with gradient */
         linear-gradient(
