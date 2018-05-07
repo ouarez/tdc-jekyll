@@ -90,11 +90,11 @@ nav {
 }
 
 header {
-  height: 650px;
+  height: 1000px;
   width:100%;
   background-repeat:no-repeat;
   background-size: cover;
-  background-position:right center;
+  background-position:right bottom;
 
   .header {
     background-color:#111;
@@ -127,7 +127,7 @@ header {
   }
 
   .hero {
-    height:570px;
+    height:920px;
     background:
         /* top, transparent black, faked with gradient */
         linear-gradient(
@@ -140,6 +140,30 @@ header {
       color:#fff;
       text-shadow:1px 1px #000;
     }
+
+    .services {
+      div {
+        color:#eee;
+        text-shadow:2px 2px #111;
+        img {
+          width:128px;
+        }
+        a {
+          color:#eee;
+          text-decoration:none;
+          border:solid #fff 3px;
+          border-radius: 5px 5px;
+          text-shadow:1px 1px #000;
+          &:hover {text-decoration: underline;}
+          img {
+            position:relative;
+            top:2px;
+            left:5px;
+            width:16px;
+          }
+        }
+      }
+    } // end services
 
     .container { // applies to all pages except the home page
       position:relative;
@@ -167,31 +191,6 @@ main {
 
     }
   }
-
-    .services {
-      background-color:$red;
-      div {
-        color:#eee;
-        text-shadow:2px 2px #111;
-        img {
-          width:128px;
-        }
-        a {
-          color:#eee;
-          text-decoration:none;
-          border:solid #fff 3px;
-          border-radius: 5px 5px;
-          text-shadow:1px 1px #000;
-          &:hover {text-decoration: underline;}
-          img {
-            position:relative;
-            top:2px;
-            left:5px;
-            width:16px;
-          }
-        }
-      }
-    } // end services
 
       .submit {
         background-color:$red;

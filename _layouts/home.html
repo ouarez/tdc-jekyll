@@ -6,42 +6,46 @@ layout: default
 
 {% include nav.html %}
 
-      <div class="hero w-100 dt vh-100 tc pb5">
-        <div class="dtc v-btm">
+      <div class="hero w-100 pb5">
+
+        <div class="dtc tc w-40 pb5 pt3 ml-auto mr-auto">
           <h2 class="ph2 b">{{page.slogan1}}</h2>
           <h3 class="ph2">{{page.slogan2}}</h3>
         </div>
+
+        <div class="services pv5 mt5 w-100">
+
+          <div class="container mt5 pt5">
+
+            <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
+              <img src="{{page.icon1}}" alt="{{page.link1}}"/>
+              <h3 class="mv2 b">{{page.text1}}</h3>
+              <a href="{{page.url1}}" class="dib pa3 mt3 b">{{page.link1}}<img src="img/icons/arrow-right.png"/></a>
+            </div>
+
+            <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
+              <img src="{{page.icon2}}" alt="{{page.link2}}"/>
+              <h3 class="mv2 b">{{page.text2}}</h3>
+              <a href="{{page.url2}}" class="dib pa3 mt3 b">{{page.link2}}<img src="img/icons/arrow-right.png"/></a>
+            </div>
+
+            <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
+              <img src="{{page.icon3}}" alt="{{page.link3}}"/>
+              <h3 class="mv2 b">{{page.text3}}</h3>
+              <a href="{{page.url3}}" class="dib pa3 mt3 b">{{page.link3}}<img src="img/icons/arrow-right.png"/></a>
+            </div>
+
+          </div> <!-- end container -->
+
+        </div> <!-- end services -->
+
       </div>
+
+
 
 </header>
 
     <main class="w-100">
-
-      <div class="services pv5">
-
-        <div class="container">
-
-          <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
-            <img src="{{page.icon1}}" alt="{{page.link1}}"/>
-            <h3 class="mv2 b">{{page.text1}}</h3>
-            <a href="{{page.url1}}" class="dib pa3 mt3 b">{{page.link1}}<img src="img/icons/arrow-right.png"/></a>
-          </div>
-
-          <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
-            <img src="{{page.icon2}}" alt="{{page.link2}}"/>
-            <h3 class="mv2 b">{{page.text2}}</h3>
-            <a href="{{page.url2}}" class="dib pa3 mt3 b">{{page.link2}}<img src="img/icons/arrow-right.png"/></a>
-          </div>
-
-          <div class="w-90 w-33-l dib-l ml-auto mr-auto tc pv3 ph3">
-            <img src="{{page.icon3}}" alt="{{page.link3}}"/>
-            <h3 class="mv2 b">{{page.text3}}</h3>
-            <a href="{{page.url3}}" class="dib pa3 mt3 b">{{page.link3}}<img src="img/icons/arrow-right.png"/></a>
-          </div>
-
-        </div> <!-- end container -->
-
-      </div> <!-- end services -->
 
     </main> <!-- end main -->
 
