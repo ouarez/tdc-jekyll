@@ -12,7 +12,7 @@ text1: Transport et assurance partout au Canada et aux États-Unis
 link1: En savoir plus sur nos services
 url1: /a-propos
 icon2: /img/truck-white.png
-text2: Plus de 20 véhicules fiables et adaptés à vos besoins
+text2: Plus de 22 véhicules fiables et adaptés à vos besoins
 link2: Voir notre flotte de véhicules
 url2: /vehicules
 icon3: /img/dollar-white.png
