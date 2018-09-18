@@ -5,7 +5,7 @@ permalink: /a-propos
 description: >-
   Transport Denis Corbeil est une entreprise spécialisée dans le domaine du
   transport de véhicules récréatifs. 
-cover_image: /img/camion2.jpg
+cover_image: /img/33-passport-wow.jpg
 image1: /img/about.jpg
 ---
 ### Transport Denis Corbeil est une entreprise spécialisée dans le domaine du transport de véhicules récréatifs.
