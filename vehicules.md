@@ -4,13 +4,13 @@ title: Nos Véhicules
 description: >-
   Transport Denis Corbeil est une entreprise spécialisée dans le domaine du
   transport de véhicules récréatifs.
-cover_image: /img/camion3.jpg
+cover_image: /img/33-passport-wow.jpg
 gallery:
-  - image: /img/1.jpg
-    image_title: Camion 1
-  - image: /img/2.jpg
-    image_title: Camion 2
-  - image: /img/3.jpg
-    image_title: Camion 3
+  - image: /img/33-2-bullet-2-.jpg
+    image_title: Bullet
+  - image: /img/33-2-bullet-3-.jpg
+    image_title: Bullet
+  - image: /img/33-3-x-clipper.jpeg
+    image_title: Clipper
 ---
 
