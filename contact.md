@@ -5,7 +5,7 @@ description: >-
   Veuillez utiliser le formulaire suivant pour toute nouvelle demande de
   transport, et nous vous reviendrons le plus rapidement possible avec un
   estimé.
-cover_image: /img/camion4.jpg
+cover_image: /img/extreme-fw.jpg
 ---
 ### Soumission en ligne
 
