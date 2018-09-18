@@ -4,7 +4,7 @@ title: Accueil
 description: >-
   Transport Denis Corbeil est une entreprise spécialisée dans le domaine du
   transport de véhicules récréatifs. 
-cover_image: /img/2.jpg
+cover_image: /img/77-aspen-trail.jpg
 slogan1: Transport de roulottes et de remorques
 slogan2: À votre service depuis 18 ans
 icon1: /img/gps-white.png
