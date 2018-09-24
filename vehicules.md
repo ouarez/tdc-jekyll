@@ -38,5 +38,7 @@ gallery:
     image_title: PICK UP 13 RESIDENCE
   - image: /img/pick-up-20-solitude.jpg
     image_title: PICK UP SOLITUDE FIFTH WHEEL
+  - image: /img/clipper-66.jpg
+    image_title: 66 - CLIPPER
 ---
 
