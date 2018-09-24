@@ -32,5 +32,7 @@ gallery:
     image_title: 66 - JAYCO
   - image: /img/44-hideout.jpeg
     image_title: 44 - HIDEOUT 2
+  - image: /img/66-lounge.jpeg
+    image_title: 66 - LOUNGE
 ---
 
