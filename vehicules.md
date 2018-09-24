@@ -14,5 +14,7 @@ gallery:
     image_title: Clipper
   - image: /img/33-apex.jpg
     image_title: 33 - APEX
+  - image: /img/44-hideout-2.jpeg
+    image_title: 44 - HIDEOUT
 ---
 
