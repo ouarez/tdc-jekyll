@@ -44,5 +44,8 @@ gallery:
     image_title: 33 - AEROLITE
   - image: /img/66-77.jpg
     image_title: 66-77
+  - image: /img/33-rpod-aliner.jpeg
+    image_title: 33 RPOD ALINER
+  - image: /img/33-99.jpg
 ---
 
