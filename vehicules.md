@@ -26,5 +26,7 @@ gallery:
     image_title: RENEGADE
   - image: /img/33-passport-239ml-sonic.jpg
     image_title: 33 - PASSPORT 239ML
+  - image: /img/33-palomini.jpg
+    image_title: 33 - PALOMINI
 ---
 
