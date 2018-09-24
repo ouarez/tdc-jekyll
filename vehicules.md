@@ -30,5 +30,7 @@ gallery:
     image_title: 33 - PALOMINI
   - image: /img/66-jayco-salem.jpeg
     image_title: 66 - JAYCO
+  - image: /img/44-hideout.jpeg
+    image_title: 44 - HIDEOUT 2
 ---
 
