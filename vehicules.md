@@ -40,5 +40,7 @@ gallery:
     image_title: PICK UP SOLITUDE FIFTH WHEEL
   - image: /img/clipper-66.jpg
     image_title: 66 - CLIPPER
+  - image: /img/33-aerolite.jpg
+    image_title: 33 - AEROLITE
 ---
 
