@@ -24,5 +24,7 @@ gallery:
     image_title: 33 - LOUNGE
   - image: /img/renegade.jpg
     image_title: RENEGADE
+  - image: /img/33-passport-239ml-sonic.jpg
+    image_title: 33 - PASSPORT 239ML
 ---
 
