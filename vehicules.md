@@ -22,5 +22,7 @@ gallery:
     image_title: PICK UP  - OUTBACK
   - image: /img/33-lounge-1.jpeg
     image_title: 33 - LOUNGE
+  - image: /img/renegade.jpg
+    image_title: RENEGADE
 ---
 
