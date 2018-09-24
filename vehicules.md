@@ -34,5 +34,7 @@ gallery:
     image_title: 44 - HIDEOUT 2
   - image: /img/66-lounge.jpeg
     image_title: 66 - LOUNGE
+  - image: /img/pick-up-13-residence.jpeg
+    image_title: PICK UP 13 RESIDENCE
 ---
 
