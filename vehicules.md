@@ -20,5 +20,7 @@ gallery:
     image_title: 33 - SONIC WORK AND PLAY
   - image: /img/pick-up-outback.jpg
     image_title: PICK UP  - OUTBACK
+  - image: /img/33-lounge-1.jpeg
+    image_title: 33 - LOUNGE
 ---
 
