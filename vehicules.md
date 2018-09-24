@@ -28,5 +28,7 @@ gallery:
     image_title: 33 - PASSPORT 239ML
   - image: /img/33-palomini.jpg
     image_title: 33 - PALOMINI
+  - image: /img/66-jayco-salem.jpeg
+    image_title: 66 - JAYCO
 ---
 
