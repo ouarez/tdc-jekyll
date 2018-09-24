@@ -12,5 +12,7 @@ gallery:
     image_title: Bullet
   - image: /img/33-3-x-clipper.jpeg
     image_title: Clipper
+  - image: /img/33-apex.jpg
+    image_title: 33 - APEX
 ---
 
