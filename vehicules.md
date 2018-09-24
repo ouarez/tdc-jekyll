@@ -42,5 +42,7 @@ gallery:
     image_title: 66 - CLIPPER
   - image: /img/33-aerolite.jpg
     image_title: 33 - AEROLITE
+  - image: /img/66-77.jpg
+    image_title: 66-77
 ---
 
