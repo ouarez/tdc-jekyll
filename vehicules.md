@@ -36,5 +36,7 @@ gallery:
     image_title: 66 - LOUNGE
   - image: /img/pick-up-13-residence.jpeg
     image_title: PICK UP 13 RESIDENCE
+  - image: /img/pick-up-20-solitude.jpg
+    image_title: PICK UP SOLITUDE FIFTH WHEEL
 ---
 
