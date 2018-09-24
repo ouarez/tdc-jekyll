@@ -18,5 +18,7 @@ gallery:
     image_title: 44 - HIDEOUT
   - image: /img/33-sonic-work-and-play.jpeg
     image_title: 33 - SONIC WORK AND PLAY
+  - image: /img/pick-up-outback.jpg
+    image_title: PICK UP  - OUTBACK
 ---
 
