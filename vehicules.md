@@ -54,6 +54,6 @@ gallery:
     image_title: CAMION 77 AVEC 3 APEX...MÊME EN HIVER NOUS TRAVAILLONS!!!
   - image: /img/camion-44-77-travail-le-soir-aussi-.jpg
     image_title: CAMION 44 ET 77 LOAD DE SOIR!!
-  - {}
+  - image: /img/camion-17-avec-pinnacle-fifth-wheel.jpg
 ---
 
