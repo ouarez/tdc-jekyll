@@ -57,5 +57,6 @@ gallery:
   - image: /img/camion-17-avec-pinnacle-fifth-wheel.jpg
     image_title: CAMION 17 AVEC PINNACLE
   - image: /img/camion-16-avec-fifth-wheel-cougar.jpg
+    image_title: 'CAMION 16 COUGAR '
 ---
 
