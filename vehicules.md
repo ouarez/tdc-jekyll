@@ -3,7 +3,10 @@ layout: vehicules
 title: Nos Véhicules
 description: >-
   Transport Denis Corbeil est une entreprise spécialisée dans le domaine du
-  transport de véhicules récréatifs.
+  transport de véhicules récréatifs. avec plus de 22 véhicules à vos services.
+  Vous pouvez retrouver des camions remorques, des porteurs ainsi que des pick
+  up. Avec une grande combinaison de camions, nous pouvons rencontrer tout les
+  besoins de transports de roulottes.  
 cover_image: /img/vehicule-et-roulottes-2019.jpeg
 gallery:
   - image: /img/33-2-bullet-2-.jpg
@@ -63,4 +66,4 @@ gallery:
   - image: /img/vehicule-et-roulottes-2019.jpeg
     image_title: VEHICULE ET ROULOTTES
 ---
-
+Transport Denis Corbeil est une entreprise spécialisée dans le domaine du transport de véhicules récréatifs. Au delà de 22 véhicules à vos services. Nous comptons parmi nos véhicules, des camions remorques, des porteurs ainsi que des pick up. Avec une grande combinaison, nous pouvons rencontrer tout les besoins en transports de roulottes.
