@@ -5,7 +5,7 @@ description: >-
   Veuillez utiliser le formulaire suivant pour toute nouvelle demande de
   transport, et nous vous reviendrons le plus rapidement possible avec un
   estimé.
-cover_image: /img/33-3-x-clipper.jpeg
+cover_image: /img/66-lounge.jpeg
 ---
 ### Soumission en ligne
 
