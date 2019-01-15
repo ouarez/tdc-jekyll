@@ -47,5 +47,10 @@ gallery:
   - image: /img/33-rpod-aliner.jpeg
     image_title: 33 RPOD ALINER
   - image: /img/33-99.jpg
+    image_title: CAMION 33-99
+  - image: /img/camion-16-avec-montana.jpg
+    image_title: CAMION 16 AVEC MONTANA
+  - {}
+  - {}
 ---
 
