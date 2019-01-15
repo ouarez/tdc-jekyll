@@ -60,5 +60,7 @@ gallery:
     image_title: 'CAMION 16 COUGAR '
   - image: /img/66-prolite.jpeg
     image_title: CAMION 66 PROLITE
+  - image: /img/vehicule-et-roulottes-2019.jpeg
+    image_title: VEHICULE ET ROULOTTES
 ---
 
