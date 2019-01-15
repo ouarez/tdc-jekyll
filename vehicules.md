@@ -50,7 +50,10 @@ gallery:
     image_title: CAMION 33-99
   - image: /img/camion-16-avec-montana.jpg
     image_title: CAMION 16 AVEC MONTANA
-  - {}
+  - image: /img/camion-77-avec-3-apex-...nous-travaillons-durant-l-hivers-.jpg
+    image_title: CAMION 77 AVEC 3 APEX...MÊME EN HIVER NOUS TRAVAILLONS!!!
+  - image: /img/camion-44-77-travail-le-soir-aussi-.jpg
+    image_title: CAMION 44 ET 77 LOAD DE SOIR!!
   - {}
 ---
 
