@@ -58,5 +58,7 @@ gallery:
     image_title: CAMION 17 AVEC PINNACLE
   - image: /img/camion-16-avec-fifth-wheel-cougar.jpg
     image_title: 'CAMION 16 COUGAR '
+  - image: /img/66-prolite.jpeg
+    image_title: CAMION 66 PROLITE
 ---
 
